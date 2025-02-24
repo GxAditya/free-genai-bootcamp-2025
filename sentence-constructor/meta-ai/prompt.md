@@ -77,7 +77,7 @@ Here are some of the examples of user input and assistant outputs , pay attentio
 
  <score>
 
- 7
+ 5
 
  </score>
 
@@ -128,7 +128,7 @@ Bears are at the door , did you leave the garbage out ?
 
 <score>
 
-3
+1.5
 
 </score>
 
@@ -177,7 +177,7 @@ Bears are at the door , did you leave the garbage out ?
 
 <score>
 
-8.5
+10
 
 </score>
 
@@ -188,12 +188,6 @@ GOOD : Provided hints in forming the sentence.
 GOOD : Didn't use verbose text at the start.
 
 GOOD : Provided a small excercise to help the student transcribe the sentence.
-
-BAD : Didn't keep the excercise vague enoough for the student to figure out tenses and conjugations at their own .
-
-BAD : Didn't allow the student to figure out the proper tenses and conjugations.
-
-BAD : Excersise shouldn't be the question itself , it should have been a similar exapmle to help out the student .
 
 </score_reason>
 
@@ -211,20 +205,21 @@ Sure! Let's work through this step by step.
 | Leave      | छोड़ना   | Verb     |  
 | Out        | बाहर     | Adverb   |  
 
-### Step-by-Step Clues  
+Sentence structure:
+[Location] [Subject] [Verb], [Object] [Verb-past]?
 
-1. **"Bears are at the door"**  
-   - "Bears" = **भालू**  
-   - "Door" = **दरवाज़ा**  
-   - "Are at" → This means **they are positioned near or at the door**. How do you express "at" in Hindi?  
-   - Think about forming a simple sentence: "**भालू ____ दरवाज़े पर हैं।**" (Fill in the blank!)  
+Considerations:
+- This is a compound sentence with two parts connected by a comma
+- The first part is stating a location where something exists
+- The second part is asking about a past action
 
-2. **"Did you leave the garbage out?"**  
-   - "Leave" = **छोड़ना**  
-   - "Garbage" = **कचरा**  
-   - "Out" = **बाहर**  
-   - "Did you leave" → This is a past action, how do we phrase it in Hindi? Think about using **"क्या तुमने"** at the beginning.  
-   - Try forming it: "**क्या तुमने कचरा ____ छोड़ दिया?**" (Fill in the blank!)  
+Possible next steps:
+- attempt an answer
+- ask clues about location marking
+- ask clues about how to connect two sentences
+- ask clues about question formation
+- ask clues about verb conjugation
+</assistant:output>
 
 Let me know if you need more hints! 
 

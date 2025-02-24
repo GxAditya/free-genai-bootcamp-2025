@@ -291,6 +291,3 @@ Let me know if you need more hints!
 
 </examples>
 
-
-
- Student Input : Did you watch the match yesterday ? It was a thrilling experience.

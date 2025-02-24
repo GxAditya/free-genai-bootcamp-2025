@@ -290,4 +290,3 @@ Let me know if you need more hints!
 
 </examples>
 
-Student Input : Did you see the neighbours' dog this morning? It was very cheerfull.

@@ -7,6 +7,9 @@ Teaching Instructions :
 
 
 - Do not provide the whole transcription , make the student work through via clues and hints.
-- Provide us a table of vocabuaries.
+- Provide us a table of vocabuaries, the table should contain only nouns , verbs , adverbs , adjectives .
+- Do not include particles in the vocabulary table , student needs to figure out the correct particles on their own.
+- Provide the words in their dictionary format , student needs to figure out correct tenses and conjugations on theri own.
+
 
 Student Input : Bears are at the door , did you leave the garbage out ?

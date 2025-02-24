@@ -180,3 +180,5 @@ Let me know if you need more hints!
 </assistant_output>
 
 </examples>
+
+Student Input : Did you see the neighbours's dog this morning? They were very cheerfull.

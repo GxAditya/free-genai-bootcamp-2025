@@ -32,9 +32,10 @@ class Db:
       return file.read()
 
   # Function to load the words from a JSON file
-  def load_json(self, filepath):
-    with open(filepath, 'r') as file:
-      return json.load(file)
+  def load_json(self, path):
+    with open(path, 'r', encoding='utf-8') as file:
+        return json.load(file)
+
 
   def setup_tables(self,cursor):
     # Create the necessary tables
@@ -84,8 +85,8 @@ class Db:
       for word in words:
         # Insert the word into the words table
         cursor.execute('''
-          INSERT INTO words (kanji, romaji, english, parts) VALUES (?, ?, ?, ?)
-        ''', (word['kanji'], word['romaji'], word['english'], json.dumps(word['parts'])))
+          INSERT INTO words (hindi, transliteration, english, parts) VALUES (?, ?, ?, ?)
+        ''', (word['hindi'], word['transliteration'], word['english'], json.dumps(word['parts'])))
         
         # Get the last inserted word's ID
         word_id = cursor.lastrowid

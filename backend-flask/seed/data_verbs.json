@@ -1,0 +1,542 @@
+[
+  {
+    "hindi": "भुगतान करना",
+    "transliteration": "bhugtaan karna",
+    "english": "to pay",
+    "parts": [
+      { "hindi": "भुगतान", "transliteration": ["bhug","taan"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "जाना",
+    "transliteration": "jaana",
+    "english": "to go",
+    "parts": [
+      { "hindi": "जा", "transliteration": ["jaa"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "व्यायाम करना",
+    "transliteration": "vyaayaam karna",
+    "english": "to exercise",
+    "parts": [
+      { "hindi": "व्यायाम", "transliteration": ["vyaa","yaam"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "जागना",
+    "transliteration": "jaagna",
+    "english": "to wake up",
+    "parts": [
+      { "hindi": "जाग", "transliteration": ["jaag"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "खरीदारी करना",
+    "transliteration": "kharidaari karna",
+    "english": "to shop",
+    "parts": [
+      { "hindi": "खरीदारी", "transliteration": ["khari","daari"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "लौटना",
+    "transliteration": "lautna",
+    "english": "to return",
+    "parts": [
+      { "hindi": "लौट", "transliteration": ["laut"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "लिखना",
+    "transliteration": "likhna",
+    "english": "to write",
+    "parts": [
+      { "hindi": "लिख", "transliteration": ["likh"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "पर्यटन करना",
+    "transliteration": "paryatan karna",
+    "english": "to sightsee",
+    "parts": [
+      { "hindi": "पर्यटन", "transliteration": ["par","ya","tan"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "सुनना",
+    "transliteration": "sunna",
+    "english": "to listen",
+    "parts": [
+      { "hindi": "सुन", "transliteration": ["sun"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "आना",
+    "transliteration": "aana",
+    "english": "to come",
+    "parts": [
+      { "hindi": "आ", "transliteration": ["aa"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "करना",
+    "transliteration": "karna",
+    "english": "to do",
+    "parts": [
+      { "hindi": "कर", "transliteration": ["kar"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "खाना",
+    "transliteration": "khaana",
+    "english": "to eat",
+    "parts": [
+      { "hindi": "खा", "transliteration": ["khaa"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "सोना",
+    "transliteration": "sona",
+    "english": "to sleep",
+    "parts": [
+      { "hindi": "सो", "transliteration": ["so"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "पीना",
+    "transliteration": "peena",
+    "english": "to drink",
+    "parts": [
+      { "hindi": "पी", "transliteration": ["pee"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "सवारी करना",
+    "transliteration": "savaari karna",
+    "english": "to ride",
+    "parts": [
+      { "hindi": "सवारी", "transliteration": ["sa","vaa","ri"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "बोलना",
+    "transliteration": "bolna",
+    "english": "to speak",
+    "parts": [
+      { "hindi": "बोल", "transliteration": ["bol"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "पढ़ाई करना",
+    "transliteration": "padhai karna",
+    "english": "to study",
+    "parts": [
+      { "hindi": "पढ़ाई", "transliteration": ["padh","ai"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "देखना",
+    "transliteration": "dekhna",
+    "english": "to see",
+    "parts": [
+      { "hindi": "देख", "transliteration": ["dekh"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "पढ़ना",
+    "transliteration": "padhna",
+    "english": "to read",
+    "parts": [
+      { "hindi": "पढ़", "transliteration": ["padh"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "लटकाना",
+    "transliteration": "latkaana",
+    "english": "to hang; to call (phone)",
+    "parts": [
+      { "hindi": "लटका", "transliteration": ["lat","kaa"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "उधार लेना",
+    "transliteration": "udhaar lena",
+    "english": "to borrow",
+    "parts": [
+      { "hindi": "उधार", "transliteration": ["u","dhaar"] },
+      { "hindi": "लेना", "transliteration": ["le","na"] }
+    ]
+  },
+  {
+    "hindi": "उधार देना",
+    "transliteration": "udhaar dena",
+    "english": "to lend",
+    "parts": [
+      { "hindi": "उधार", "transliteration": ["u","dhaar"] },
+      { "hindi": "देना", "transliteration": ["de","na"] }
+    ]
+  },
+  {
+    "hindi": "सीखना",
+    "transliteration": "seekhna",
+    "english": "to learn",
+    "parts": [
+      { "hindi": "सीख", "transliteration": ["seekh"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "सिखाना",
+    "transliteration": "sikhaana",
+    "english": "to teach",
+    "parts": [
+      { "hindi": "सिखा", "transliteration": ["si","khaa"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "पाना",
+    "transliteration": "paana",
+    "english": "to receive",
+    "parts": [
+      { "hindi": "पा", "transliteration": ["paa"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "देना",
+    "transliteration": "dena",
+    "english": "to give",
+    "parts": [
+      { "hindi": "दे", "transliteration": ["de"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "मिलना",
+    "transliteration": "milna",
+    "english": "to meet",
+    "parts": [
+      { "hindi": "मिल", "transliteration": ["mil"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "उतरना",
+    "transliteration": "utarna",
+    "english": "to get off (vehicle)",
+    "parts": [
+      { "hindi": "उतर", "transliteration": ["utar"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "शुरू करना",
+    "transliteration": "shuru karna",
+    "english": "to start",
+    "parts": [
+      { "hindi": "शुरू", "transliteration": ["shu","ru"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "दिखाना",
+    "transliteration": "dikhaana",
+    "english": "to show",
+    "parts": [
+      { "hindi": "दिखा", "transliteration": ["di","khaa"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "उतरना",
+    "transliteration": "utarna",
+    "english": "to get off",
+    "parts": [
+      { "hindi": "उतर", "transliteration": ["utar"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "रोकना",
+    "transliteration": "rokna",
+    "english": "to stop",
+    "parts": [
+      { "hindi": "रोक", "transliteration": ["rok"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "बंद करना",
+    "transliteration": "band karna",
+    "english": "to turn off; to erase",
+    "parts": [
+      { "hindi": "बंद", "transliteration": ["band"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "चालू करना",
+    "transliteration": "chaalu karna",
+    "english": "to turn on",
+    "parts": [
+      { "hindi": "चालू", "transliteration": ["chaa","lu"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "जल्दी करना",
+    "transliteration": "jaldi karna",
+    "english": "to hurry",
+    "parts": [
+      { "hindi": "जल्दी", "transliteration": ["jal","di"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "मदद करना",
+    "transliteration": "madad karna",
+    "english": "to help",
+    "parts": [
+      { "hindi": "मदद", "transliteration": ["ma","dad"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "लेना",
+    "transliteration": "lena",
+    "english": "to take",
+    "parts": [
+      { "hindi": "ले", "transliteration": ["le"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "पकड़ना",
+    "transliteration": "pakadna",
+    "english": "to hold",
+    "parts": [
+      { "hindi": "पकड़", "transliteration": ["pa","kad"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "इंतज़ार करना",
+    "transliteration": "intazaar karna",
+    "english": "to wait",
+    "parts": [
+      { "hindi": "इंतज़ार", "transliteration": ["in","ta","zaar"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "चलना",
+    "transliteration": "chalna",
+    "english": "to walk",
+    "parts": [
+      { "hindi": "चल", "transliteration": ["chal"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "बंद करना",
+    "transliteration": "band karna",
+    "english": "to close",
+    "parts": [
+      { "hindi": "बंद", "transliteration": ["band"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "आराम करना",
+    "transliteration": "aaraam karna",
+    "english": "to rest",
+    "parts": [
+      { "hindi": "आराम", "transliteration": ["aa","raam"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "खत्म करना",
+    "transliteration": "khatm karna",
+    "english": "to finish",
+    "parts": [
+      { "hindi": "खत्म", "transliteration": ["khatm"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "काम करना",
+    "transliteration": "kaam karna",
+    "english": "to work",
+    "parts": [
+      { "hindi": "काम", "transliteration": ["kaam"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "खोलना",
+    "transliteration": "kholna",
+    "english": "to open",
+    "parts": [
+      { "hindi": "खोल", "transliteration": ["khol"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "बुलाना",
+    "transliteration": "bulaana",
+    "english": "to call",
+    "parts": [
+      { "hindi": "बुला", "transliteration": ["bu","laa"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "भेजना",
+    "transliteration": "bhejna",
+    "english": "to send",
+    "parts": [
+      { "hindi": "भेज", "transliteration": ["bhej"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "काटना",
+    "transliteration": "kaatna",
+    "english": "to cut",
+    "parts": [
+      { "hindi": "काट", "transliteration": ["kaat"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "फोटो खींचना",
+    "transliteration": "photo kheenchna",
+    "english": "to take (a photo)",
+    "parts": [
+      { "hindi": "फोटो", "transliteration": ["pho","to"] },
+      { "hindi": "खींचना", "transliteration": ["kheen","ch","na"] }
+    ]
+  },
+  {
+    "hindi": "कहना",
+    "transliteration": "kahna",
+    "english": "to say",
+    "parts": [
+      { "hindi": "कह", "transliteration": ["kah"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "देख पाना",
+    "transliteration": "dekh paana",
+    "english": "to be able to see",
+    "parts": [
+      { "hindi": "देख", "transliteration": ["dekh"] },
+      { "hindi": "पाना", "transliteration": ["paa","na"] }
+    ]
+  },
+  {
+    "hindi": "बनाना",
+    "transliteration": "banaana",
+    "english": "to make",
+    "parts": [
+      { "hindi": "बना", "transliteration": ["ba","naa"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "इस्तेमाल करना",
+    "transliteration": "istemaal karna",
+    "english": "to use",
+    "parts": [
+      { "hindi": "इस्तेमाल", "transliteration": ["is","te","maal"] },
+      { "hindi": "करना", "transliteration": ["kar","na"] }
+    ]
+  },
+  {
+    "hindi": "होना",
+    "transliteration": "hona",
+    "english": "to exist (inanimate)",
+    "parts": [
+      { "hindi": "हो", "transliteration": ["ho"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "रहना",
+    "transliteration": "rahna",
+    "english": "to exist (animate)",
+    "parts": [
+      { "hindi": "रह", "transliteration": ["rah"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "परेशान होना",
+    "transliteration": "pareshaan hona",
+    "english": "to be troubled",
+    "parts": [
+      { "hindi": "परेशान", "transliteration": ["pa","re","shaan"] },
+      { "hindi": "होना", "transliteration": ["ho","na"] }
+    ]
+  },
+  {
+    "hindi": "तैरना",
+    "transliteration": "tairna",
+    "english": "to swim",
+    "parts": [
+      { "hindi": "तैर", "transliteration": ["tair"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "टहलना",
+    "transliteration": "tahalna",
+    "english": "to stroll",
+    "parts": [
+      { "hindi": "टहल", "transliteration": ["ta","hal"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "गाड़ी चलाना",
+    "transliteration": "gaadi chalaana",
+    "english": "to drive",
+    "parts": [
+      { "hindi": "गाड़ी", "transliteration": ["gaa","di"] },
+      { "hindi": "चलाना", "transliteration": ["cha","laa","na"] }
+    ]
+  },
+  {
+    "hindi": "मिलना",
+    "transliteration": "milna",
+    "english": "to meet; to fit",
+    "parts": [
+      { "hindi": "मिल", "transliteration": ["mil"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  }
+]

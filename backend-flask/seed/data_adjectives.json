@@ -1,0 +1,622 @@
+[
+  {
+    "hindi": "अच्छा",
+    "transliteration": "accha",
+    "english": "good",
+    "parts": [
+      { "hindi": "अ", "transliteration": ["a"] },
+      { "hindi": "च्", "transliteration": ["ch"] },
+      { "hindi": "छा", "transliteration": ["cha"] }
+    ]
+  },
+  {
+    "hindi": "अच्छा",
+    "transliteration": "accha",
+    "english": "good",
+    "parts": [
+      { "hindi": "अ", "transliteration": ["a"] },
+      { "hindi": "च्", "transliteration": ["ch"] },
+      { "hindi": "छा", "transliteration": ["cha"] }
+    ]
+  },
+  {
+    "hindi": "पुराना",
+    "transliteration": "purana",
+    "english": "old",
+    "parts": [
+      { "hindi": "पु", "transliteration": ["pu"] },
+      { "hindi": "रा", "transliteration": ["ra"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "व्यस्त",
+    "transliteration": "vyast",
+    "english": "busy",
+    "parts": [
+      { "hindi": "व्य", "transliteration": ["vy"] },
+      { "hindi": "स्त", "transliteration": ["st"] }
+    ]
+  },
+  {
+    "hindi": "नया",
+    "transliteration": "naya",
+    "english": "new",
+    "parts": [
+      { "hindi": "न", "transliteration": ["na"] },
+      { "hindi": "या", "transliteration": ["ya"] }
+    ]
+  },
+  {
+    "hindi": "बुरा",
+    "transliteration": "bura",
+    "english": "bad",
+    "parts": [
+      { "hindi": "बु", "transliteration": ["bu"] },
+      { "hindi": "रा", "transliteration": ["ra"] }
+    ]
+  },
+  {
+    "hindi": "दुखी",
+    "transliteration": "dukhi",
+    "english": "sad",
+    "parts": [
+      { "hindi": "दु", "transliteration": ["du"] },
+      { "hindi": "खी", "transliteration": ["khi"] }
+    ]
+  },
+  {
+    "hindi": "खुश",
+    "transliteration": "khush",
+    "english": "glad",
+    "parts": [
+      { "hindi": "खु", "transliteration": ["khu"] },
+      { "hindi": "श", "transliteration": ["sh"] }
+    ]
+  },
+  {
+    "hindi": "मोटा",
+    "transliteration": "mota",
+    "english": "fat",
+    "parts": [
+      { "hindi": "मो", "transliteration": ["mo"] },
+      { "hindi": "टा", "transliteration": ["ta"] }
+    ]
+  },
+  {
+    "hindi": "पतला",
+    "transliteration": "patla",
+    "english": "thin",
+    "parts": [
+      { "hindi": "प", "transliteration": ["pa"] },
+      { "hindi": "त", "transliteration": ["t"] },
+      { "hindi": "ला", "transliteration": ["la"] }
+    ]
+  },
+  {
+    "hindi": "दिलचस्प",
+    "transliteration": "dilchasp",
+    "english": "interesting",
+    "parts": [
+      { "hindi": "दिल", "transliteration": ["dil"] },
+      { "hindi": "चस्प", "transliteration": ["chasp"] }
+    ]
+  },
+  {
+    "hindi": "समान",
+    "transliteration": "saman",
+    "english": "same",
+    "parts": [
+      { "hindi": "स", "transliteration": ["sa"] },
+      { "hindi": "मा", "transliteration": ["ma"] },
+      { "hindi": "न", "transliteration": ["n"] }
+    ]
+  },
+  {
+    "hindi": "गंदा",
+    "transliteration": "ganda",
+    "english": "dirty",
+    "parts": [
+      { "hindi": "गं", "transliteration": ["gan"] },
+      { "hindi": "दा", "transliteration": ["da"] }
+    ]
+  },
+  {
+    "hindi": "सुंदर",
+    "transliteration": "sundar",
+    "english": "pretty",
+    "parts": [
+      { "hindi": "सुं", "transliteration": ["sun"] },
+      { "hindi": "दर", "transliteration": ["dar"] }
+    ]
+  },
+  {
+    "hindi": "गरम",
+    "transliteration": "garam",
+    "english": "hot",
+    "parts": [
+      { "hindi": "ग", "transliteration": ["ga"] },
+      { "hindi": "रम", "transliteration": ["ram"] }
+    ]
+  },
+  {
+    "hindi": "ठंडा",
+    "transliteration": "thanda",
+    "english": "cold",
+    "parts": [
+      { "hindi": "ठं", "transliteration": ["than"] },
+      { "hindi": "डा", "transliteration": ["da"] }
+    ]
+  },
+  {
+    "hindi": "पसंद",
+    "transliteration": "pasand",
+    "english": "to like",
+    "parts": [
+      { "hindi": "प", "transliteration": ["pa"] },
+      { "hindi": "संद", "transliteration": ["sand"] }
+    ]
+  },
+  {
+    "hindi": "शीतल",
+    "transliteration": "sheetal",
+    "english": "cool",
+    "parts": [
+      { "hindi": "शी", "transliteration": ["shee"] },
+      { "hindi": "तल", "transliteration": ["tal"] }
+    ]
+  },
+  {
+    "hindi": "स्वादिष्ट",
+    "transliteration": "swadisht",
+    "english": "tasty",
+    "parts": [
+      { "hindi": "स्वा", "transliteration": ["swa"] },
+      { "hindi": "दि", "transliteration": ["di"] },
+      { "hindi": "ष्ट", "transliteration": ["sht"] }
+    ]
+  },
+  {
+    "hindi": "बहुत पसंद",
+    "transliteration": "bahut pasand",
+    "english": "to love",
+    "parts": [
+      { "hindi": "बहुत", "transliteration": ["bahut"] },
+      { "hindi": "पसंद", "transliteration": ["pasand"] }
+    ]
+  },
+  {
+    "hindi": "तीखा",
+    "transliteration": "teekha",
+    "english": "spicy",
+    "parts": [
+      { "hindi": "ती", "transliteration": ["tee"] },
+      { "hindi": "खा", "transliteration": ["kha"] }
+    ]
+  },
+  {
+    "hindi": "फीका",
+    "transliteration": "pheeka",
+    "english": "bland",
+    "parts": [
+      { "hindi": "फी", "transliteration": ["phee"] },
+      { "hindi": "का", "transliteration": ["ka"] }
+    ]
+  },
+  {
+    "hindi": "बढ़िया",
+    "transliteration": "badhiya",
+    "english": "awesome",
+    "parts": [
+      { "hindi": "ब", "transliteration": ["ba"] },
+      { "hindi": "ढ़ि", "transliteration": ["dhi"] },
+      { "hindi": "या", "transliteration": ["ya"] }
+    ]
+  },
+  {
+    "hindi": "अद्भुत",
+    "transliteration": "adbhut",
+    "english": "wonderful",
+    "parts": [
+      { "hindi": "अ", "transliteration": ["a"] },
+      { "hindi": "द्", "transliteration": ["d"] },
+      { "hindi": "भु", "transliteration": ["bhu"] },
+      { "hindi": "त", "transliteration": ["t"] }
+    ]
+  },
+  {
+    "hindi": "संकरा",
+    "transliteration": "sankara",
+    "english": "narrow",
+    "parts": [
+      { "hindi": "सं", "transliteration": ["san"] },
+      { "hindi": "क", "transliteration": ["ka"] },
+      { "hindi": "रा", "transliteration": ["ra"] }
+    ]
+  },
+  {
+    "hindi": "दयालु",
+    "transliteration": "dayalu",
+    "english": "kind",
+    "parts": [
+      { "hindi": "द", "transliteration": ["da"] },
+      { "hindi": "या", "transliteration": ["ya"] },
+      { "hindi": "लु", "transliteration": ["lu"] }
+    ]
+  },
+  {
+    "hindi": "पास",
+    "transliteration": "paas",
+    "english": "near; close",
+    "parts": [
+      { "hindi": "पा", "transliteration": ["paa"] },
+      { "hindi": "स", "transliteration": ["s"] }
+    ]
+  },
+  {
+    "hindi": "उबाऊ",
+    "transliteration": "ubaau",
+    "english": "boring",
+    "parts": [
+      { "hindi": "उ", "transliteration": ["u"] },
+      { "hindi": "बा", "transliteration": ["baa"] },
+      { "hindi": "ऊ", "transliteration": ["u"] }
+    ]
+  },
+  {
+    "hindi": "दूर",
+    "transliteration": "door",
+    "english": "far",
+    "parts": [
+      { "hindi": "दू", "transliteration": ["doo"] },
+      { "hindi": "र", "transliteration": ["r"] }
+    ]
+  },
+  {
+    "hindi": "प्रसिद्ध",
+    "transliteration": "prasidh",
+    "english": "famous",
+    "parts": [
+      { "hindi": "प्र", "transliteration": ["pra"] },
+      { "hindi": "सि", "transliteration": ["si"] },
+      { "hindi": "द्ध", "transliteration": ["dh"] }
+    ]
+  },
+  {
+    "hindi": "लंबा",
+    "transliteration": "lamba",
+    "english": "long",
+    "parts": [
+      { "hindi": "लं", "transliteration": ["lam"] },
+      { "hindi": "बा", "transliteration": ["ba"] }
+    ]
+  },
+  {
+    "hindi": "चौड़ा",
+    "transliteration": "chauda",
+    "english": "wide",
+    "parts": [
+      { "hindi": "चौ", "transliteration": ["chau"] },
+      { "hindi": "ड़ा", "transliteration": ["da"] }
+    ]
+  },
+  {
+    "hindi": "निचला",
+    "transliteration": "nichla",
+    "english": "low",
+    "parts": [
+      { "hindi": "नि", "transliteration": ["ni"] },
+      { "hindi": "च", "transliteration": ["ch"] },
+      { "hindi": "ला", "transliteration": ["la"] }
+    ]
+  },
+  {
+    "hindi": "अजीब",
+    "transliteration": "ajeeb",
+    "english": "strange",
+    "parts": [
+      { "hindi": "अ", "transliteration": ["a"] },
+      { "hindi": "जी", "transliteration": ["jee"] },
+      { "hindi": "ब", "transliteration": ["b"] }
+    ]
+  },
+  {
+    "hindi": "छोटा",
+    "transliteration": "chhota",
+    "english": "short",
+    "parts": [
+      { "hindi": "छो", "transliteration": ["chho"] },
+      { "hindi": "टा", "transliteration": ["ta"] }
+    ]
+  },
+  {
+    "hindi": "महंगा",
+    "transliteration": "mehnga",
+    "english": "expensive",
+    "parts": [
+      { "hindi": "म", "transliteration": ["me"] },
+      { "hindi": "हं", "transliteration": ["han"] },
+      { "hindi": "गा", "transliteration": ["ga"] }
+    ]
+  },
+  {
+    "hindi": "छोटा",
+    "transliteration": "chhota",
+    "english": "small",
+    "parts": [
+      { "hindi": "छो", "transliteration": ["chho"] },
+      { "hindi": "टा", "transliteration": ["ta"] }
+    ]
+  },
+  {
+    "hindi": "सस्ता",
+    "transliteration": "sasta",
+    "english": "cheap",
+    "parts": [
+      { "hindi": "स", "transliteration": ["sa"] },
+      { "hindi": "स्", "transliteration": ["s"] },
+      { "hindi": "ता", "transliteration": ["ta"] }
+    ]
+  },
+  {
+    "hindi": "बड़ा",
+    "transliteration": "bada",
+    "english": "large",
+    "parts": [
+      { "hindi": "ब", "transliteration": ["ba"] },
+      { "hindi": "ड़ा", "transliteration": ["da"] }
+    ]
+  },
+  {
+    "hindi": "मज़ेदार",
+    "transliteration": "mazedar",
+    "english": "fun",
+    "parts": [
+      { "hindi": "म", "transliteration": ["ma"] },
+      { "hindi": "ज़े", "transliteration": ["ze"] },
+      { "hindi": "दार", "transliteration": ["dar"] }
+    ]
+  },
+  {
+    "hindi": "मज़बूत",
+    "transliteration": "mazbut",
+    "english": "strong",
+    "parts": [
+      { "hindi": "म", "transliteration": ["ma"] },
+      { "hindi": "ज़", "transliteration": ["z"] },
+      { "hindi": "बू", "transliteration": ["bu"] },
+      { "hindi": "त", "transliteration": ["t"] }
+    ]
+  },
+  {
+    "hindi": "कमज़ोर",
+    "transliteration": "kamzor",
+    "english": "weak",
+    "parts": [
+      { "hindi": "क", "transliteration": ["ka"] },
+      { "hindi": "म", "transliteration": ["m"] },
+      { "hindi": "ज़ो", "transliteration": ["zo"] },
+      { "hindi": "र", "transliteration": ["r"] }
+    ]
+  },
+  {
+    "hindi": "उज्जवल",
+    "transliteration": "ujjwal",
+    "english": "bright",
+    "parts": [
+      { "hindi": "उ", "transliteration": ["u"] },
+      { "hindi": "ज्ज", "transliteration": ["jj"] },
+      { "hindi": "व", "transliteration": ["va"] },
+      { "hindi": "ल", "transliteration": ["l"] }
+    ]
+  },
+  {
+    "hindi": "अंधेरा",
+    "transliteration": "andhera",
+    "english": "dark",
+    "parts": [
+      { "hindi": "अं", "transliteration": ["an"] },
+      { "hindi": "धे", "transliteration": ["dhe"] },
+      { "hindi": "रा", "transliteration": ["ra"] }
+    ]
+  },
+  {
+    "hindi": "भारी",
+    "transliteration": "bhari",
+    "english": "heavy",
+    "parts": [
+      { "hindi": "भा", "transliteration": ["bha"] },
+      { "hindi": "री", "transliteration": ["ri"] }
+    ]
+  },
+  {
+    "hindi": "हल्का",
+    "transliteration": "halka",
+    "english": "light",
+    "parts": [
+      { "hindi": "ह", "transliteration": ["ha"] },
+      { "hindi": "ल्", "transliteration": ["l"] },
+      { "hindi": "का", "transliteration": ["ka"] }
+    ]
+  },
+  {
+    "hindi": "जल्दी",
+    "transliteration": "jaldi",
+    "english": "early",
+    "parts": [
+      { "hindi": "ज", "transliteration": ["ja"] },
+      { "hindi": "ल्", "transliteration": ["l"] },
+      { "hindi": "दी", "transliteration": ["di"] }
+    ]
+  },
+  {
+    "hindi": "धीमा",
+    "transliteration": "dheema",
+    "english": "slow",
+    "parts": [
+      { "hindi": "धी", "transliteration": ["dhee"] },
+      { "hindi": "मा", "transliteration": ["ma"] }
+    ]
+  },
+  {
+    "hindi": "दर्द",
+    "transliteration": "dard",
+    "english": "painful",
+    "parts": [
+      { "hindi": "द", "transliteration": ["da"] },
+      { "hindi": "र्द", "transliteration": ["rd"] }
+    ]
+  },
+  {
+    "hindi": "फैला हुआ",
+    "transliteration": "phaila hua",
+    "english": "spread out",
+    "parts": [ 
+      { "hindi": "फै", "transliteration": ["phai"] },
+      { "hindi": "ला", "transliteration": ["la"] },
+      { "hindi": "हु", "transliteration": ["hu"] },
+      { "hindi": "आ", "transliteration": ["a"] }
+    ]
+  },
+  {
+    "hindi": "कड़वा",
+    "transliteration": "kadwa",
+    "english": "bitter",
+    "parts": [
+      { "hindi": "क", "transliteration": ["ka"] },
+      { "hindi": "ड़", "transliteration": ["d"] },
+      { "hindi": "वा", "transliteration": ["wa"] }
+    ]
+  },
+  {
+    "hindi": "मीठा",
+    "transliteration": "meetha",
+    "english": "sweet",
+    "parts": [
+      { "hindi": "मी", "transliteration": ["mee"] },
+      { "hindi": "ठा", "transliteration": ["tha"] }
+    ]
+  },
+  {
+    "hindi": "कठोर",
+    "transliteration": "kathor",
+    "english": "hard",
+    "parts": [
+      { "hindi": "क", "transliteration": ["ka"] },
+      { "hindi": "ठो", "transliteration": ["tho"] },
+      { "hindi": "र", "transliteration": ["r"] }
+    ]
+  },
+  {
+    "hindi": "नरम",
+    "transliteration": "naram",
+    "english": "soft",
+    "parts": [
+      { "hindi": "न", "transliteration": ["na"] },
+      { "hindi": "र", "transliteration": ["ra"] },
+      { "hindi": "म", "transliteration": ["m"] }
+    ]
+  },
+  {
+    "hindi": "दुर्लभ",
+    "transliteration": "durlabh",
+    "english": "rare",
+    "parts": [
+      { "hindi": "दु", "transliteration": ["du"] },
+      { "hindi": "र्", "transliteration": ["r"] },
+      { "hindi": "ल", "transliteration": ["la"] },
+      { "hindi": "भ", "transliteration": ["bh"] }
+    ]
+  },
+  {
+    "hindi": "डरावना",
+    "transliteration": "darawna",
+    "english": "scary",
+    "parts": [
+      { "hindi": "ड", "transliteration": ["da"] },
+      { "hindi": "रा", "transliteration": ["ra"] },
+      { "hindi": "व", "transliteration": ["w"] },
+      { "hindi": "ना", "transliteration": ["na"] }
+    ]
+  },
+  {
+    "hindi": "शोरगुल",
+    "transliteration": "shorgul",
+    "english": "noisy",
+    "parts": [
+      { "hindi": "शो", "transliteration": ["sho"] },
+      { "hindi": "र", "transliteration": ["r"] },
+      { "hindi": "गु", "transliteration": ["gu"] },
+      { "hindi": "ल", "transliteration": ["l"] }
+    ]
+  },
+  {
+    "hindi": "शांत",
+    "transliteration": "shant",
+    "english": "quiet",
+    "parts": [
+      { "hindi": "शां", "transliteration": ["sha"] },
+      { "hindi": "त", "transliteration": ["t"] }
+    ]
+  },
+  {
+    "hindi": "गरम",
+    "transliteration": "garam",
+    "english": "hot",
+    "parts": [
+      { "hindi": "ग", "transliteration": ["ga"] },
+      { "hindi": "र", "transliteration": ["ra"] },
+      { "hindi": "म", "transliteration": ["m"] }
+    ]
+  },
+  {
+    "hindi": "ठंडा",
+    "transliteration": "thanda",
+    "english": "cold",
+    "parts": [
+      { "hindi": "ठं", "transliteration": ["than"] },
+      { "hindi": "डा", "transliteration": ["da"] }
+    ]
+  },
+  {
+    "hindi": "गंदा",
+    "transliteration": "ganda",
+    "english": "dirty",
+    "parts": [
+      { "hindi": "गं", "transliteration": ["gan"] },
+      { "hindi": "दा", "transliteration": ["da"] }
+    ]
+  },
+  {
+    "hindi": "खूबसूरत",
+    "transliteration": "khoobsurat",
+    "english": "beautiful",
+    "parts": [
+      { "hindi": "खू", "transliteration": ["khoo"] },
+      { "hindi": "ब", "transliteration": ["b"] },
+      { "hindi": "सू", "transliteration": ["su"] },
+      { "hindi": "र", "transliteration": ["ra"] },
+      { "hindi": "त", "transliteration": ["t"] }
+    ]
+  },
+  {
+    "hindi": "आसान",
+    "transliteration": "aasan",
+    "english": "easy",
+    "parts": [
+      { "hindi": "आ", "transliteration": ["aa"] },
+      { "hindi": "सा", "transliteration": ["sa"] },
+      { "hindi": "न", "transliteration": ["n"] }
+    ]
+  },
+  {
+    "hindi": "महान",
+    "transliteration": "mahan",
+    "english": "great",
+    "parts": [
+      { "hindi": "म", "transliteration": ["ma"] },
+      { "hindi": "हा", "transliteration": ["ha"] },
+      { "hindi": "न", "transliteration": ["n"] }
+    ]
+  }
+]

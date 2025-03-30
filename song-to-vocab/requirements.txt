@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+duckduckgo-search
+beautifulsoup4
+requests
+ollama
+instructor
+sqlite3
+pydantic
+tenacity==8.2.2
+python-multipart==0.0.6

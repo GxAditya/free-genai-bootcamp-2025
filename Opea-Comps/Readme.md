@@ -1,25 +1,3 @@
-# Requirements 
-We are using the llama 3.2:1b model as we want to run the model locally and we don't have computing powerto run models with higher parameters.
-
-# Steps
-- Either Right-click on docker-compose.yaml file and select compose up or go to docker extension and right click on ollama and select start
-
-## Code for terminal
- LLM_ENDPOINT_PORT=8008 LLM_MODEL_ID="llama3.2:1b" host_ip=172.29.173.4 docker compose up
-
-## Pulling the model (downloading the model into the docker container)
-   curl http://localhost:8008/api/pull -d '{
-  "model": "llama3.2:1b"
-}'
-
-## Generating a responce from the loaded model 
-Wait for the model to be loaded into the container then fetch this code in the terminal:
-
-curl http://localhost:8008/api/generate -d '{
-  "model": "llama3.2:1b",
-  "prompt": "Why is the sky blue?"
-}'
-
 ## Running Ollama Third-Party Service
 
 ### Choosing a Model
@@ -52,6 +30,19 @@ Once the Ollama server is running we can make API calls to the ollama API
 https://github.com/ollama/ollama/blob/main/docs/api.md
 
 
+## Download (Pull) a model
+
+curl http://localhost:8008/api/pull -d '{
+  "model": "llama3.2:1b"
+}'
+
+## Generate a Request
+
+curl http://localhost:/api/generate -d '{
+  "model": "llama3.2:1b",
+  "prompt": "Why is the sky blue?"
+}'
+
 # Technical Uncertainty
 
 Q Does bridge mode mean we can only accses Ollama API with another model in the docker compose?
@@ -73,4 +64,3 @@ A: The model will download into the container, and vanish when the container sto
 Q: For LLM service which can text-generation it suggets it will only work with TGI/vLLM and all you have to do is have it running. Does TGI and vLLM have a stardarized API or is there code to detect which one is running? Do we have to really use Xeon or Guadi processor?
 
 vLLM, TGI (Text Generation Inference), and Ollama all offer APIs with OpenAI compatibility, so in theory they should be interchangable.
-
